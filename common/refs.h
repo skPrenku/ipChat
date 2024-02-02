@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <assert.h>
-// Copied for work we've done before
+
 #if defined(_WIN32) || defined(_WIN64)
 // Windows
 #define WIN32_LEAN_AND_MEAN 1
